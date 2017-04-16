@@ -1,0 +1,42 @@
+.line{
+	margin: 2em 1em;
+	border:1px solid #fff;
+    display: block;
+}
+label{
+	font-weight: bold;
+	font-family: sans-serif;
+	display: block;
+	width: 10em;
+}
+input.number{
+	width: 15em;
+    display: block;
+	border: 1px solid #ccc;
+	padding: 0.5em;
+	
+}
+.blank{
+	display: block;
+	float: left;
+	clear: right;
+}
+.button{
+	float:left;
+	width: 120px;
+    font-size: 25px;
+	clear:both;
+	margin: 1em;
+}
+
+h1.tip{
+	border:1px solid #ccc;
+	display:inline;
+	padding: 1em;
+	line-height: 3em;
+	box-shadow: -0.1em 0.1em #cecece;
+}
+
+.items {
+    display: block;
+}
